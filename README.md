@@ -1,0 +1,2 @@
+# Comparing Texts Core
+ 
